@@ -1,8 +1,6 @@
-⚡Frontend Engineer Enthusiast
 # Hi, I'm Daffa Harizal Fitri 👋
 
-
-
+⚡Frontend Engineer Enthusiast
 
 ### 📊&nbsp;GitHub Analytics
 

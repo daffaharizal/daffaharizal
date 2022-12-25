@@ -5,8 +5,8 @@
 ### 📊&nbsp;GitHub Analytics
 
 <div style="display: block">
-  <img height="170rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daffaharizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffaharizal&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daffaharizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffaharizal&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 ### 🛠 &nbsp;Tech Stack

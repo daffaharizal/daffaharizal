@@ -29,6 +29,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/daffaharizal/"><img src="https://img.shields.io/badge/-Daffa%20Harizal%20Fitri-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:harizal.daffa46@gmail.com"><img src="https://img.shields.io/badge/-daffaharizal46@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/daffa_harizal"><img src="https://img.shields.io/badge/-@daffaharizal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:harizal.daffa46@gmail.com"><img src="https://img.shields.io/badge/-harizal.daffa46@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/daffa_harizal"><img src="https://img.shields.io/badge/-@daffa_harizal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>

@@ -6,7 +6,7 @@
 
 <div style="display: block">
   <img height="153em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daffaharizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="153em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffaharizal&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="153em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffaharizal&layout=compact&langs_count=9&theme=algolia"/>
 </div>
 
 ### 🛠 &nbsp;Tech Stack
